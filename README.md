@@ -1,4 +1,4 @@
-Hi there 👋
+Hi there this is Andualem👋
 
 
 - 🔭 I’m currently working on web development
@@ -8,5 +8,5 @@ Hi there 👋
 - 💬 Ask me about ...web development, JavaScript, or CS topics.
 - 📫 How to reach me: ...📧 Email: endyten1621@gmail.com
                          📱 Telegram: @Enn_1110
-- ⚡ Fun fact: ...  I turn coffee into code ☕
--->
+- ⚡ Fun fact: ... ngl  I turn coffee into code ☕
+  
