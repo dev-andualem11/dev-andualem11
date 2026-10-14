@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **📧 Email: endyten1621@gmail.com 📱 Telegram: @Enn_1110**
 
-- ⚡ Fun fact **This README updates more often than my phone — stay tuned, I'm leveling up 📱**
+- ⚡ Fun fact **This README updates more often than my phone stay tuned, I'm leveling up 📱**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
